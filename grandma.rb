@@ -13,5 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-  return "I LOVE YOU TOO PUMKIN!"
+  return "I LOVE YOU TOO PUMPKIN!"
 end
